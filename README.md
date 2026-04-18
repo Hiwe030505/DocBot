@@ -423,14 +423,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ---
 
-## 👨‍💻 Author
-
-**Duong Hieu**
-- GitHub: [@HieuAI2005](https://github.com/HieuAI2005)
-- Email: hieuai0305@gmail.com
-
----
-
 ## 🙏 Acknowledgments
 
 - Qwen Team for the excellent LLM models
